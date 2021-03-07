@@ -25,7 +25,7 @@ Click "Save" if you're in the widget screen or "Publish" if you're editing widge
 
 The plugin is also extendable with the following action hooks `nc_thumbnail_recent_posts_widget_before` and `nc_thumbnail_recent_posts_widget_after`. You can add something before and after the title of the latest posts. 
 
-In the above image, you see I used the widget to display the latest homes from the property post type and instead of displaying the date, I hooked in display a price from a custom field.
+In the above image, you see I used the widget to display the latest homes from the "property" post type and I hooked in to display a home's price from a custom field.
 
 Here’s some example code you would place in your `functions.php` file:
 
@@ -47,4 +47,6 @@ Here’s an example of what you can do. The below example styles the widget outp
       --image-height: 60px /* the height of the image */;
     }
 
-.
+***
+
+For more information, contact neal@nealchester.com    
