@@ -1,6 +1,6 @@
 # Documentation
 
-**NC Thumbnails for Recent Posts** is a WordPress plugin that creates a new widget that allows you to display a thumbnail aside the latest post entries. You can also display posts from custom post types as well. Also: extendable with hooks.
+**NC Thumbnails for Recent Posts** is a WordPress widget plugin that displays a thumbnail aside each latest post entry with support for the custom post type of your choice.
 
 **Problem:** the default Latest Posts WordPress widget doesn’t allow the featured image to display next to each entry. It also doesn’t give an option to display the latest posts from another post type.
 

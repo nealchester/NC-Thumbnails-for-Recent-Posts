@@ -1,8 +1,8 @@
 <?php
 /**
 * Plugin Name: NC Thumbnails for Recent Posts
-* Plugin URI: https://www.nealchester.com/downloads/nc-thumbnails-for-recents-posts/
-* Description: Creates a widget that shows a thumbnail aside each entry the latest posts count and post type of your choice. You can extend the plugin by using the action hooks "nc_thumbnail_recent_posts_widget_before" and "nc_thumbnail_recent_posts_widget_after."
+* Plugin URI: https://github.com/nealchester/NC-Thumbnails-for-Recent-Posts/
+* Description: A WordPress widget plugin that displays a thumbnail aside each latest post entry with support for the custom post type of your choice.
 * Version: 1.0
 * Author: Neal Chester
 * Author URI: https://www.nealchester.com
