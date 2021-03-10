@@ -42,12 +42,14 @@ You can customize the widget's output with CSS custom properties (variables). Us
 
 Here’s an example of what you can do. The below example styles the widget output within the HTML element with the ID of `megafooter`.
 
-    #megafooter .nctrpsw {
-      --image-gap: .75em /* the space between the image and entry title */;
-      --image-border: none /* or solid 1px black */;
-      --image-width: 95px /* the width of the image */;
-      --image-height: 60px /* the height of the image */;
-    }
+```css
+#megafooter .nctrpsw {
+  --image-gap: .75em /* the space between the image and entry title */;
+  --image-border: none /* or solid 1px black */;
+  --image-width: 95px /* the width of the image */;
+  --image-height: 60px /* the height of the image */;
+}
+```
 
 ***
 
