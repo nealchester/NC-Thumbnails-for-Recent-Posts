@@ -29,10 +29,12 @@ In the above image, you see I used the widget to display the latest homes from t
 
 Here’s some example code you would place in your `functions.php` file:
 
-    function your_custom_function() {
-      echo 'add your content here'; 
-    } 
-    add_action('nc_thumbnail_recent_posts_widget_after', 'your_custom_function');
+```php
+function your_custom_function() {
+  echo 'add your content here'; 
+} 
+add_action('nc_thumbnail_recent_posts_widget_after', 'your_custom_function');
+```
 
 ## Customize the output
 
